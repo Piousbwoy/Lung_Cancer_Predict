@@ -1,0 +1,30 @@
+2025-04-12 10:13:30,057 - INFO - Starting train_model.py
+2025-04-12 10:13:30,058 - INFO - Loading dataset from data/lung_cancer_new.csv
+2025-04-12 10:13:30,083 - INFO - Dataset loaded: 1000 rows, 15 columns
+2025-04-12 10:13:30,087 - INFO - Data split into X and y
+2025-04-12 10:13:30,094 - INFO - Numerical features scaled
+2025-04-12 10:13:30,097 - INFO - Data split: 800 train, 200 test
+2025-04-12 10:13:33,699 - INFO - Model training completed
+2025-04-12 10:13:33,752 - INFO - Model accuracy: 1.0000
+2025-04-12 10:13:33,764 - INFO - Saving model to models/voting_model.pkl
+2025-04-12 10:13:33,865 - INFO - Model saved: models/voting_model.pkl, Size: 173.41 KB
+2025-04-12 10:13:33,865 - INFO - Saving scaler to models/scaler.pkl
+2025-04-12 10:13:33,868 - INFO - Scaler saved: models/scaler.pkl, Size: 1.12 KB
+2025-04-12 17:47:18,389 - INFO - Starting train_model.py
+2025-04-12 17:47:18,390 - ERROR - Dataset not found at data/lung_cancer_new.csv
+2025-04-12 17:48:41,397 - INFO - Starting train_model.py
+2025-04-12 17:48:41,397 - ERROR - Dataset not found at data/lung_cancer_new.csv
+2025-04-12 17:51:27,817 - INFO - Starting train_model.py
+2025-04-12 17:51:27,817 - ERROR - Dataset not found at data/lung_cancer_new.csv
+2025-04-12 17:52:04,738 - INFO - Starting train_model.py
+2025-04-12 17:52:04,738 - INFO - Loading dataset from data/lung_cancer_new.csv
+2025-04-12 17:52:04,754 - INFO - Dataset loaded: 1000 rows, 15 columns
+2025-04-12 17:52:04,754 - INFO - Data split into X and y
+2025-04-12 17:52:04,769 - INFO - Numerical features scaled
+2025-04-12 17:52:04,769 - INFO - Data split: 800 train, 200 test
+2025-04-12 17:52:08,553 - INFO - Model training completed
+2025-04-12 17:52:08,607 - INFO - Model accuracy: 1.0000
+2025-04-12 17:52:08,623 - INFO - Saving model to models/voting_model.pkl
+2025-04-12 17:52:08,716 - INFO - Model saved: models/voting_model.pkl, Size: 261.99 KB
+2025-04-12 17:52:08,716 - INFO - Saving scaler to models/scaler.pkl
+2025-04-12 17:52:08,719 - INFO - Scaler saved: models/scaler.pkl, Size: 1.12 KB
